@@ -1,0 +1,9 @@
+streamlit
+streamlit-lottie
+requests
+pandas
+qrcode
+reportlab
+pushbullet.py
+scikit-learn
+plotly
